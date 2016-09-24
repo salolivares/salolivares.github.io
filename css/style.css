@@ -20,9 +20,12 @@ img {
   border: none; }
 
 #go-back-home {
-  margin: 40px 0 0; }
-  #go-back-home:hover {
-    background-image: none; }
+  margin: 40px 0 0; 
+}
+
+#go-back-home:hover {
+    background-image: none; 
+}
 
 .capitalize {
   text-transform: capitalize; }
@@ -87,9 +90,12 @@ footer {
   line-height: 2em;
   margin: auto;
   padding-bottom: 30px;
-  text-align: center; }
-  footer * {
-    color: #797979; }
+  text-align: center; 
+}
+
+footer * {
+  color: #797979; 
+}
 
 #container {
   *zoom: 1;
