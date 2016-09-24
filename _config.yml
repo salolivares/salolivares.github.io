@@ -1,8 +1,8 @@
 title:            Sal Olivares
 description:      Sal Olivares. Programmer & CS Student @ UCSB.
-url:              http://about.salolivares.com
+url:              http://salolivares.com
 signoff:          Sal Olivares
-disqus_shortname: 
+disqus_shortname: salolivares
 google_analytics: 'UA-40495390-2'
 
 author:
@@ -12,13 +12,12 @@ author:
   email: me@salolivares.com
 
 links:
-  - name:         About
+  - name:         Home
     url:          /
+  - name:         About
+    url:          /about
   - name:         Blog
     url:          /blog
-  - name:         GitHub
-    url:          http://github.com/salolivares
-    external:     true
 
 gems:
   - kramdown
