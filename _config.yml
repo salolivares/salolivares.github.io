@@ -1,15 +1,15 @@
-title:            Sourabh Bajaj
-description:      Portfolio website of Sourabh Bajaj
-url:              http://sourabhbajaj.com
-signoff:          Sourabh Bajaj
+title:            Sal Olivares
+description:      Sal Olivares. Programmer & CS Student @ UCSB.
+url:              http://about.salolivares.com
+signoff:          Sal Olivares
+disqus_shortname: 
 google_analytics: 'UA-40495390-2'
 
 author:
-  linkedin: sbajaj9
-  twitter : sb2nov
-  github : sb2nov
-  speaker: sb2nov
-  email: sourabh@sourabhbajaj.com
+  linkedin: salolivares
+  twitter : salcodes
+  github : salolivares
+  email: me@salolivares.com
 
 links:
   - name:         About
@@ -17,7 +17,7 @@ links:
   - name:         Blog
     url:          /blog
   - name:         GitHub
-    url:          http://github.com/sb2nov
+    url:          http://github.com/salolivares
     external:     true
 
 gems:
