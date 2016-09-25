@@ -1,6 +1,6 @@
-## Sal Olivares
+# Sal Olivares
 
-This is the official repo for my portfolio and blog. 
+Repo for my portfolio and blog. 
 ---
 
 ## Usage
