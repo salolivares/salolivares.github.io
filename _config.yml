@@ -13,9 +13,11 @@ author:
 
 links:
   - name:         Home
-    url:          /
+    url:          / 
   - name:         About
     url:          /about
+  - name:         Portfolio
+    url:          /portfolio
   - name:         Blog
     url:          /blog
 
