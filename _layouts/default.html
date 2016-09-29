@@ -1,7 +1,8 @@
 <html>
   <head>
-    <meta content='{{ site.title }}' property='og:title' />
-    <title>{{ site.title }}</title>
+    <meta content='{{ page.title }} | {{ site.title }}' name='title' />
+    <meta content='{{ page.title }} | {{ site.title }}' name='og:title' />
+    <title>{{ page.title }} | {{ site.title }}</title>
     {% include head.html %}
   </head>
   <body>

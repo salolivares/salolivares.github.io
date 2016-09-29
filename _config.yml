@@ -12,14 +12,13 @@ author:
   email: me@salolivares.com
 
 links:
-  - name:         Home
-    url:          / 
   - name:         About
     url:          /about
   - name:         Portfolio
     url:          /portfolio
   - name:         Blog
     url:          /blog
+
 
 gems:
   - kramdown
