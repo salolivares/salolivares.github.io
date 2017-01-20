@@ -82,7 +82,7 @@ Once done with finals, I was back home, surrounded with family. The 4 week long 
 I gymed with a good friend, watched a the new Star Wars movie, and hung out with friends and family.
 
 ### 2016
-Thank you to all my friends, new and old, for making this an amazing year.
+Thank you to all my friends, new and old, I appreciate all of y'all.
 
 Overall, a great year. 8/10.
 
