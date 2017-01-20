@@ -3,7 +3,7 @@ layout: post
 title: A year in review 2016.
 disqus: n
 share: n
-date: 2016-01-19
+date: 2017-01-19
 ---
 
 I've spent the past years just going through the motions and never reflecting on the past and never really setting clear goals for the future. This new year a decided to document how my year went and set goals. It was filled with my greatest accomplishments thus far, wonderful new experiences, and some of the lowest lows I've ever felt. Enjoy my unedited stream of stream of consciousness.
