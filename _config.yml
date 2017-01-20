@@ -18,6 +18,8 @@ links:
     url:          /portfolio
   - name:         Blog
     url:          /blog
+  - name:         Archive
+    url:          /archive
 
 
 gems:
