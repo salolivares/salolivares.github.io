@@ -5,6 +5,11 @@ disqus: n
 share: n
 date: 2017-01-20
 ---
+
+Here are a collection of quotes I’ve had the privilege and/or misfortune of coming across on the internet.
+
+---
+
 On Porter Robinson.
 
 > Porter mind fucked me into a different dimension. A dimension where reality isn't going to be the same anymore. - Diana Morales
