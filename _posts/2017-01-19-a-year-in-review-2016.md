@@ -23,7 +23,7 @@ During this time some of my good friends and I signed a lease to live in IV, in 
 
 Also, I finally got a car!! Well.. it was my sister's...
 
-###June
+### June
 June was probably the best month out of the whole year. I kicked it off by going to E3 Live with some good friends back in LA. We waited in lines to try out the HTC vives and try out VR for the first time. That experience was awesome, we got to play a puzzle game where all four of us had to work against the clock to beat a challenge. Great experience overall.
 
 Also got to catch Finding Dora with the family, great movie and great to see a sequel to one of my favorite movies.
@@ -31,7 +31,7 @@ Also got to catch Finding Dora with the family, great movie and great to see a s
 About two weeks into June, I moved to Carlsbad to begin my internship. I roomed with a good friend back from UCSB, and met tons of great people. My coworker and manager were great. I also got free access to the gym, and thus I started getting in shape for the first time ever. I also started cooking for myself, and basically stole my housemate's diet cause it was a) healthy b) easy to cook.
 
 
-###July
+### July
 July is where the pokemon go craze started kicking in. Even my manager joined in. We would spend some days hunting for pokemon on break.
 
 Somewhere in between my internship, I went to Anime Expo. Always great to go to the Expo and see all the cool art and trinkets. Even though I'm not a big anime fan, it's a great event and you get tons of 3DS street passes :D.
@@ -40,7 +40,7 @@ I also explored San Diego with my then SO. We had some dope food and dessert and
 
 Oh, and I went to HARD summer. Enough said.
 
-###August
+### August
 In August, I was still working hard at my internship. My coworker and I both managed to create awesome tools for the employees at ViaSat, which are hopefully actually used today.
 
 Nearing the end of my internship ViaSat sent us to go see a Padres game. Front row seats and free food baby! (Although that's usually not the best angle to watch).
@@ -51,7 +51,7 @@ Towards the end of my ViaSat internship, I played Smash with my housemate and co
 
 Some good friends from back home also came up to visit me at my Carlsbad apartment. Great times. Food and Smash.
 
-###September - October
+### September - October
 With my internship concluding, it was back to school. I had moved into the new IV house, with 7 other people.
 
 And with that the Fall quarter began. It would prove to be one of the most academically challenging and emotionally taxing quarters yet.
@@ -70,7 +70,7 @@ For Thanksgiving break, I managed to catch Jai Wolf in LA. He was playing right 
 This was also the beginning of the end...
 
 
-###December
+### December
 December, a bittersweet way to end the year.
 
 For dead week, my partner and I were pulling 8-12 hours days trying to complete an assignment for class.
@@ -81,6 +81,6 @@ Once done with finals, I was back home, surrounded with family. The 4 week long 
 
 I gymed with a good friend, watched a the new Star Wars movie, and hung out with friends and family.
 
-###2016
+### 2016
 Overall, a great year. 8/10.
 
