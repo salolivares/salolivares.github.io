@@ -6,7 +6,7 @@ share: n
 date: 2017-01-19
 ---
 
-I've spent the past years just going through the motions and never reflecting on the past and never really setting clear goals for the future. This new year a decided to document how my year went and set goals. It was filled with my greatest accomplishments thus far, wonderful new experiences, and some of the lowest lows I've ever felt. Enjoy my unedited stream of stream of consciousness.
+I've spent the past years just going through the motions and never reflecting on the past and never really setting clear goals for the future. This new year a decided to document how my year went and set goals. It was filled with my greatest accomplishments thus far, wonderful new experiences, and some of the lowest lows I've ever felt. Enjoy my unedited stream of consciousness.
 
 > I may not have gone where I intended to go, but I think I have ended up where I intended to be. - Douglas Adams
 
