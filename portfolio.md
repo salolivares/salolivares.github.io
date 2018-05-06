@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-### React Native
+### JavaScript
 For my senior project I had the privilege of working with 4 good friends to create [Dispatchr](). Dispatchr aimed to provide “cloud based crowdsourced shopping”. The idea is that other students with cars can log onto Dispatchr when they are planning to go shopping, and pick up requests made by other users who live nearby and whose items can be found in the store that the student was  planning on going to. Much like what we have now, UberEats, doordash, except community driven with rewards and compensation. Much of the frontend was create with React Native, allowing us to support both iOS and Android while iterating very quickly. The backend was a ruby on rails API server hosted on Heroku. We also used Dwolla to support ACH and credit card payments. 
 
 ### Java
