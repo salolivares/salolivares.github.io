@@ -3,12 +3,41 @@ layout: post
 title: Stuff the internet says.
 disqus: n
 share: n
-date: 2018-05-05
+date: 2018-09-24
 ---
 
 Here are a collection of quotes I’ve had the privilege and/or misfortune of coming across on the internet.
 
 ---
+
+[On the Supreme Brick](https://www.reddit.com/r/streetwear/comments/9dt12o/why_supreme_can_not_register_its_trademark/e5jupgx/)
+
+> The brick is the best item Supreme ever released.
+It works on multiple layers:
+* It shows how absurd brand worshipping has become
+* It enables you to flex by showing that you can burn $50 for nothing
+* It's a meta flex on other brands who aren't popular enough to sell a brick
+* It's in line with the subtle crime vibe of most Supreme accessories like the crowbar or the scale
+* It lampshades the silliness of nobody actually using their accessories
+* It's a creative reinterpretation of Duchamp's Fountain, retesting the limits of what can be considered as fashion or hype these days
+
+[On "When would be the worst time to start a "U-S-A" chant?"](https://www.reddit.com/r/AskReddit/comments/9igkot/when_would_be_the_worst_time_to_start_a_usa_chant/e6jjft7/)
+
+> When a cholo asks you what you're looking at
+
+[On Pre-Match Prayer - Brazil v Mexico - FIFA World Cup R. of 16](https://www.reddit.com/r/LigaMX/comments/8va31z/prematch_thread_brazil_vs_mexico_fifa_world_cup_r/e1mdndq/)
+
+> Padre nuestro que estas en RUSIA santificado sean Chicharito, Ochoa y Hirving lozano, Venga a nosotros la felicidad de ganarle a Brazil. Hágase su voluntad tanto en la cancha como en el juego, danos hoy nuestro Gol de cada partido, perdona nuestra defensa, así como nosotros perdonamos a los arbitros que nos ofenden. No nos dejes caer en la eliminación y llevanos a la final.... Amen!
+
+[On Spanish vs English Futbol Commentators](https://www.reddit.com/r/LatinoPeopleTwitter/comments/8r2go2/goooooooooooooooooooool/e0ogd1c/)
+
+> English: "There StevensonSteven goes with the ball, cutting through the defense, and he's in the box. Wow, what a player. He scores!"
+
+> Spanish: "Ay va StevensonSteven, El Muchacho Heroe, entrando por la derecha, esta adentro de la caja, AY VA, AY VA, AY VA. GOOOOOOOOOLLLLL HIJO DE SU PUTA MADRE, ADENTRO DE LA CAJA, SIN MARCA, ENTRO, GOLIO, Y SE ESTA DESNUDANDOSE ! DIOS MIO. QUE GOLAZO."
+
+[On Breakups.](https://www.reddit.com/r/LifeProTips/comments/8nridy/lpt_when_you_go_on_vacation_bring_a_new/dzy05rk/)
+
+> All of the people that have passed through your life have added themselves to a rich tapestry of your life story, and you to theirs in kind. We rarely travel this journey through life together with any given person for very long, but that does not detract from the value of having travelled it with them for the time we've had.
 
 [On Taxes.](https://www.reddit.com/r/wallstreetbets/comments/5xtueg/hey_guys_millennials_are_informed_everything_is/del0yqu/)
 
