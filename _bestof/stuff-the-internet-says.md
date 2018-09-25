@@ -3,7 +3,7 @@ layout: post
 title: Stuff the internet says.
 disqus: n
 share: n
-date: 2017-01-20
+date: 2018-05-05
 ---
 
 Here are a collection of quotes I’ve had the privilege and/or misfortune of coming across on the internet.

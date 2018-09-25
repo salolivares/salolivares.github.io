@@ -21,8 +21,12 @@ links:
   - name:         Best Of
     url:          /bestof
 
+collections:
+  bestof:
+    output: true
 
-gems:
+
+plugins:
   - kramdown
   - jekyll-feed
   - jekyll-sitemap

@@ -4,9 +4,9 @@ title: Best Of
 ---
 
 <ul class="posts">
-  {% for post in site.categories.bestof %}
+  {% for post in site.bestof %}
   <li>
-    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
+    <small class="datetime muted" data-time="{{ post.date }}"><i>Last Updated</i> &nbsp; {{ post.date | date: "%B %Y" }} </small>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endfor %}
